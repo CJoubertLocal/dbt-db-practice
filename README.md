@@ -1,3 +1,5 @@
+This repository is solely for learning to use DBT. It follows a tutorial by [Data Tech on YouTube](https://www.youtube.com/watch?v=C6BNAfaeqXY).
+
 Welcome to your new dbt project!
 
 ### Using the starter project
